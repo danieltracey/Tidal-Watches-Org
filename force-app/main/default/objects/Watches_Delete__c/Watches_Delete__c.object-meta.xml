@@ -155,7 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Watch</label>
     <nameField>
-        <label>Watches-Delete Name</label>
+        <label>Watches-Delete Name Seiko</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Watches</pluralLabel>
